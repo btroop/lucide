@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "danbovey",
+    "colebemis",
+    "csandman",
+    "ericfennis",
+    "danielbayley",
+    "btroop"
+  ],
+  "use-cases": [],
+  "tags": [
+    "$group:question-mark"
+  ],
+  "categories": [
+    "accessibility",
+    "text",
+    "notifications"
+  ]
+}
