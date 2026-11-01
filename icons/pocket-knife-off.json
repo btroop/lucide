@@ -1,0 +1,23 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "danielbayley",
+    "karsa-mistmere”,
+    “btroop”
+  ],
+  "use-cases": [],
+  "tags": [
+    "swiss army knife",
+    "penknife",
+    "multi-tool",
+    "multitask",
+    "blade",
+    "cutter",
+    "gadget",
+    "corkscrew”,
+    "$group:off"
+  ],
+  "categories": [
+    "tools"
+  ]
+}
