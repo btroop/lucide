@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "AlexNaskida",
+    "karsa-mistmere",
+    "jguddas",
+    "btroop",
+  ],
+  "use-cases": [],
+  "tags": [
+    "$extends:tool-case",
+    "$group:off"
+  ],
+  "categories": [
+    "$extends:tool-case"
+  ]
+}
