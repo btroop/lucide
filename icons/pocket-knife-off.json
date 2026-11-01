@@ -7,17 +7,10 @@
   ],
   "use-cases": [],
   "tags": [
-    "swiss army knife",
-    "penknife",
-    "multi-tool",
-    "multitask",
-    "blade",
-    "cutter",
-    "gadget",
-    "corkscrew”,
+    "$extends:pocket-knife",
     "$group:off"
   ],
   "categories": [
-    "tools"
+    "$extends:pocket-knife"
   ]
 }
